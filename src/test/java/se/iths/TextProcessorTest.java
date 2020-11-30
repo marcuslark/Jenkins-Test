@@ -19,7 +19,7 @@ public class TextProcessorTest {
 
     @Test
     public void testReverse() {
-        assertEquals("regor", TextProcessor.reverse("roger"));
+        assertEquals("asd", TextProcessor.reverse("roger"));
     }
 
     @Test
